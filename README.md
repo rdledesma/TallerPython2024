@@ -4,6 +4,7 @@
 Este taller está diseñado para personas con orientación científica que deseen aprender Python desde cero. Es un curso **hands-on**, enfocado en resolver problemas prácticos y científicos a través de la programación. Aprenderás lógica de programación, estructuras de control, estructuras de datos, modularidad y fundamentos de programación orientada a objetos, así como herramientas para manipulación y análisis de datos.
 
 ## Modalidad y Horarios
+- **Inicio del taller**: **martes 3 de diciembre**.
 - **Modalidad**: Taller práctico con ejercicios en cada clase. 
 - **Encuentros**: Dos veces por semana, los **martes y jueves**, de **16:00 a 18:00 hs**.
 - **Lugar**: Laboratorio 8 del Departamento de Informática, Facultad de Ciencias Exactas.
@@ -14,11 +15,7 @@ Este taller está diseñado para personas con orientación científica que desee
 ## Consultas
 Para más información, escribir a: **rdledesma@exa.unsa.edu.ar**
 
-
-
-
-
-
+## Temario
 
 ## Clase 1: Introducción a Python y Lógica de Programación
 - **Objetivo**: Familiarizarse con Python y los conceptos básicos de la lógica de programación.
