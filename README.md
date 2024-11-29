@@ -1,4 +1,4 @@
-# Temario del Taller de Python para Científicos
+# Temario del Taller Introducción a Python para Científicos
 
 ## Clase 1: Introducción a Python y Lógica de Programación
 - **Objetivo**: Familiarizarse con Python y los conceptos básicos de la lógica de programación.
